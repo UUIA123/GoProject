@@ -23,4 +23,5 @@ func main() {
 	fmt.Println("Successfully connected to the database!")
 	fmt.Println("Successfully connected to the database!111111")
 	fmt.Println("Successfully connected to the database!111111master")
+	fmt.Println("Successfully connected to the database!1111112222")
 }
